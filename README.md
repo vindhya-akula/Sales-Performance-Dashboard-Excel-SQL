@@ -14,10 +14,10 @@ SQL Business Analysis
 
 ## Dataset Used
 A sales transaction dataset containing 1,000 records from 2024–2026. The dataset represents sales transactions across multiple products, categories, regions, and sales representatives.
-Business Questions & KPIs
+- <a href="https://github.com/vindhya-akula/Sales-Performance-Dashboard-Excel-SQL/blob/main/Sales_Dataset_Cleaned.xlsx">Sales Data</a>
 
-
-# KPI Metrics
+## Business Questions & KPIs
+## KPI Metrics
 1. Total Revenue
 What is the total revenue generated?
 2. Total Profit
@@ -31,7 +31,7 @@ What is the average revenue generated per order?
 6. Profit Margin 
 What percentage of revenue was converted into profit?
 
-# Business Analysis Questions
+## Business Analysis Questions
 Monthly Analysis
 a) How does revenue change over time?
 b) How does profit change over time?
