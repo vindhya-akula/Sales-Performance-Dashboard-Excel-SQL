@@ -58,11 +58,11 @@ Step 6: Dashboard Development
 Step 7: SQL Analysis
 
 ## Tools Used
-Microsoft Excel
-Pivot Tables
-Pivot Charts
-Slicers & Timelines
-Conditional Formatting
+Microsoft Excel,
+Pivot Tables,
+Pivot Charts,
+Slicers & Timelines,
+Conditional Formatting,
 SQL
 
 
