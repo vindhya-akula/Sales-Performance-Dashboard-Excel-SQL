@@ -32,7 +32,7 @@ What is the average revenue generated per order?
 What percentage of revenue was converted into profit?
 
 ## Business Analysis Questions
-Monthly Analysis
+## Monthly Analysis
 a) How does revenue change over time?
 b) How does profit change over time?
 c) Which month generated the highest revenue?
