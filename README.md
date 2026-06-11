@@ -46,12 +46,16 @@ j) Sales Representative Analysis
 k) Which sales representative generates the highest revenue?
 l) Which sales representative generates the highest profit?
 
+- Dashboard Interaction <a href="https://github.com/vindhya-akula/Sales-Performance-Dashboard-Excel-SQL/blob/main/Screenshot%20Dashboard.png">View Dasboard</a>
+
 ## Process Followed
 Step 1: Data Preparation
 Step 2: Data Analysis Using Pivot Tables
-Step 3: KPI Calculation
-Step 4: Dashboard Development
-Step 5: SQL Analysis
+Step 3: Product Analysis
+Step 4: Customer & Sales Analysis
+Step 5: KPI Calculation
+Step 6: Dashboard Development
+Step 7: SQL Analysis
 
 ## Tools Used
 Microsoft Excel
@@ -60,4 +64,6 @@ Pivot Charts
 Slicers & Timelines
 Conditional Formatting
 SQL
+
+
 
